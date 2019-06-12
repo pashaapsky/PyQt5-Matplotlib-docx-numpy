@@ -1,0 +1,7 @@
+Rprd=3.0
+Rprm=3.0
+Gym=5.0
+Pgvc_AR_stac=23.0
+Pgvc_AR_port=13.0
+Pgvc=20
+typeVP=ÂÏ ñ ÑÇÓ
